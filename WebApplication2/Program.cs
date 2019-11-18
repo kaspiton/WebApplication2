@@ -11,6 +11,7 @@ namespace WebApplication2
 {
     public class Program
     {
+        // branch change
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
